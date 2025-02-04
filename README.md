@@ -114,9 +114,3 @@ Esegui i test unitari con:
 ```sh
 mvn test
 ```
-
-I test coprono:
-
-Creazione ordine (OrderServiceTest)
-Recupero ordini (OrderRepositoryTest)
-Controller API (OrderControllerTest)
