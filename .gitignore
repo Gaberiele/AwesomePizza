@@ -1,0 +1,22 @@
+HELP.md
+# File e cartelle di Eclipse
+/.settings/
+/.metadata/
+/bin/
+/target/
+/.classpath
+/.project
+/.idea/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Dipendenze di Maven
+/mvnw
+/mvnw.cmd
+*.log
+.mvn/
+
+# File di ambiente
+.env
